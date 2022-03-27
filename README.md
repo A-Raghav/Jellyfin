@@ -1,4 +1,4 @@
-# temp
+# Jellyfin Configuration
 
 Installation Jellyfin - 
 https://jellyfin.org/docs/general/administration/installing.html
